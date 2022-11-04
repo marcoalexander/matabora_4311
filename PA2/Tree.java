@@ -16,7 +16,7 @@ public class Tree {
         Vertex g1 = new Vertex("g");
         Vertex h1 = new Vertex("h");
         */
-        a1.addNeighbor(c1,0);
+        a1.addNeighbor(c1,1);
         c1.addNeighbor(b1,0);
         c1.addNeighbor(d1,0);
         d1.addNeighbor(b1,0);
